@@ -1,0 +1,74 @@
+{
+  "telegram": {
+    "bot_token": "8798523004:AAELRIG1NJYeLl12UN34p1QWDrE9fd57DNg",
+    "chat_ids": [
+      "-1003140522913"
+    ]
+  },
+  "apis": [
+    {
+      "id": "api_fd6b18f1",
+      "name": "Lamix sms",
+      "enabled": true,
+      "url": "http://139.99.208.63/ints/agent/res/data_smscdr.php",
+      "sesskey": "",
+      "cookies": {
+        "PHPSESSID": "583c0eb1ce628a390721fdb35216f610"
+      },
+      "username": "Rajumondal",
+      "password": "Rajumondal@@",
+      "base_url": "http://139.99.208.63/ints",
+      "headers": {
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive",
+        "Referer": "http://139.99.208.63/ints/agent/SMSCDRReports",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+        "X-Requested-With": "XMLHttpRequest"
+      }
+    },
+    {
+      "id": "api_67bf38b4",
+      "name": "Seven1tail",
+      "enabled": true,
+      "url": "http://94.23.120.156/ints/agent/res/data_smscdr.php",
+      "sesskey": "Q05RR0FSUEFBVg==",
+      "cookies": {
+        "PHPSESSID": "catob0empm5goqo8g70c16hh9q"
+      },
+      "username": "rajumondal",
+      "password": "Raju123@#",
+      "base_url": "http://94.23.120.156/ints",
+      "headers": {
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive",
+        "Referer": "http://94.23.120.156/ints/agent/SMSCDRReports",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+        "X-Requested-With": "XMLHttpRequest"
+      }
+    }
+  ],
+  "settings": {
+    "polling_interval": 5,
+    "admin_ids": [
+      5692411527
+    ],
+    "bot_link_url": "https://t.me/+FsUCbnFsM5s4MWFl",
+    "channel_link_url": "https://t.me/+H_ptePj4WXNiMWQ1"
+  },
+  "button_styles": {
+    "copy": "success",
+    "bot_link": "danger",
+    "channel": "primary",
+    "delete": "danger",
+    "disable": "danger",
+    "enable": "success",
+    "add": "success",
+    "cancel": "",
+    "edit": "",
+    "back": "",
+    "test": "primary",
+    "info": "primary"
+  }
+}

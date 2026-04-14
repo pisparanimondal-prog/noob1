@@ -1,0 +1,9 @@
+pyTelegramBotAPI==4.32.0
+requests==2.33.0
+phonenumbers==9.0.26
+urllib3==2.6.3
+selenium
+pyvirtualdisplay
+webdriver-manager
+beautifulsoup4
+flask
